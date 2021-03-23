@@ -1,2 +1,2 @@
 # Medical-segmentation  
-Medical images segmentation: Attention Unet architecture.  
+Medical images segmentation: Explainable Ai using Attention Unet architecture.  
